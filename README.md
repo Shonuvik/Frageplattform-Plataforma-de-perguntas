@@ -12,6 +12,7 @@ Copie o urlvalor.
 Configurando o Aplicativo
 Na pasta do aplicativo, copie o arquivo .env.example e crie um arquivo chamado .env
 
+Executando o projeto
 
 Abra o arquivo .env e adicione as credenciais de serviço que você obteve ao criar uma conta.
 
@@ -24,4 +25,4 @@ SPEECH_TO_TEXT_URL=https://gateway-wdc.watsonplatform.net/text-to-Speech/ape
 Para instalar as dependências execute o comando abaixo
 npm install
 
-Execute o aplicativo
+
